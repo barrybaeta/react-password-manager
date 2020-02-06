@@ -1,0 +1,11 @@
+{
+  "passwords": [
+    {
+      "name": "Facebook",
+      "url": "http://facebook.com",
+      "username": "Barry",
+      "password": "Barry",
+      "id": 2
+    }
+  ]
+}
